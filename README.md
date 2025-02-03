@@ -1,55 +1,40 @@
-# Yan Ladeia Tortelli - Portfólio e Projetos
+# Yan Ladeia Tortelli - Tecnologias e Habilidades
 
-Olá! Eu sou **Yan Ladeia Tortelli**, um desenvolvedor de software com uma formação sólida em Tecnologia da Informação e uma paixão por aprender e aplicar novas tecnologias. Este repositório contém uma visão geral das minhas habilidades, certificações e projetos realizados.
+## Tecnologias que Eu Sei
 
-## Certificações
+### **Desenvolvimento Web**
+- **HTML/CSS**: 90% – Criação de sites e portfólios responsivos.
+- **JavaScript**: 85% – Desenvolvimento de funcionalidades interativas para web.
+- **Node.js**: 80% – Desenvolvimento de servidores e aplicações backend.
+- **Django**: 75% – Framework Python para criação de websites dinâmicos.
+- **React (Expo)**: 70% – Desenvolvimento de aplicativos móveis com Expo.
 
-- **Microsoft Power Platform Fundamentals**
-- **Google Cloud**
-- **AWS**
-- **Cisco**
+### **Plataformas de Nuvem**
+- **AWS (Amazon Web Services)**: 80% – Gerenciamento de instâncias EC2, armazenamento S3, e outras ferramentas AWS.
+- **Google Cloud**: 75% – Conhecimento em serviços de nuvem, como máquinas virtuais e banco de dados.
 
-## Formação Acadêmica
+### **Banco de Dados**
+- **SQLite**: 85% – Criação e gerenciamento de bancos de dados locais.
+- **MySQL**: 70% – Criação e administração de bancos de dados relacionais.
 
-- **Tecnólogo em Gestão da Tecnologia da Informação** - UNICID (2025)
-- **Análise e Desenvolvimento de Sistemas** - SENAI Morvan Figueiredo (2024)
-- **Ensino Médio** - SESI (2024)
+### **Desenvolvimento de Chatbots**
+- **WhatsApp API**: 80% – Criação de chatbots para integração com WhatsApp.
+- **Baileys (Biblioteca WhatsApp)**: 75% – Manipulação de mensagens e interações via WhatsApp API.
 
-## Habilidades Técnicas
-
-- **Desenvolvimento Web**: Conhecimento em HTML, CSS, JavaScript, Node.js, Django
-- **Desenvolvimento de Chatbots**: Experiência em WhatsApp API, SQLite, PM2, Baileys
-- **Plataformas de Nuvem**: AWS, Google Cloud
-- **Gerenciamento de Servidores**: Utilização de instâncias EC2 da AWS e SSH
-- **Banco de Dados**: SQLite, MySQL
-- **Outras Ferramentas**: Expo (para aplicativos móveis), PowerShell, GitHub
+### **Outras Tecnologias**
+- **PM2**: 70% – Gerenciamento de processos de Node.js.
+- **PowerShell**: 65% – Automação e execução de scripts no Windows.
+- **Git/GitHub**: 85% – Controle de versão e colaboração de código.
 
 ## Projetos
 
-### 1. **Chatbot para Barbearia e Pizzaria**
-   - **Descrição**: Desenvolvi chatbots personalizados para uma barbearia e uma pizzaria, com funcionalidades como agendamento de horários e suporte ao cliente via WhatsApp. Usei a API do WhatsApp, SQLite e PM2 para gerenciamento.
-   - **Tecnologias**: Node.js, WhatsApp API, SQLite, PM2
-   - [Repositório GitHub](https://github.com/yanlt32/botwagner)
+Confira alguns dos meus projetos no GitHub:
 
-### 2. **Site "Devcasais"**
-   - **Descrição**: Desenvolvimento de um site para casais com funcionalidades de planos personalizados, envio de fotos e contagem de dias.
-   - **Tecnologias**: HTML, CSS, JavaScript
-   - [Repositório GitHub](https://github.com/yanlt32/TecLove-teste)
-
-### 3. **Site sobre Palha Italiana**
-   - **Descrição**: Um site desenvolvido para a minha namorada sobre palha italiana, onde é possível visualizar diferentes receitas e informações sobre o doce.
-   - **Tecnologias**: HTML, CSS, JavaScript
-   - [Repositório GitHub](https://github.com/yanlt32/portfolio)
-
-### 4. **Aplicativo "Meu App"**
-   - **Descrição**: Desenvolvimento de um aplicativo utilizando apenas HTML, CSS e JavaScript, sem o uso de frameworks.
-   - **Tecnologias**: HTML, CSS, JavaScript
-   - [Repositório GitHub](https://github.com/yanlt32/meu-app)
-
-### 5. **Portfolio Pessoal**
-   - **Descrição**: Meu portfólio pessoal com informações sobre minhas certificações, projetos e habilidades.
-   - **Tecnologias**: HTML, CSS, JavaScript
-   - [Repositório GitHub](https://github.com/yanlt32/portfolio)
+- [Chatbot para Barbearia e Pizzaria](https://github.com/yanlt32/botwagner)
+- [Site "Devcasais"](https://github.com/yanlt32/TecLove-teste)
+- [Site sobre Palha Italiana](https://github.com/yanlt32/portfolio)
+- [Aplicativo "Meu App"](https://github.com/yanlt32/meu-app)
+- [Portfólio Pessoal](https://github.com/yanlt32/portfolio)
 
 ## Contato
 
