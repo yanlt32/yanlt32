@@ -26,6 +26,10 @@
 - **PowerShell**: ![PowerShell Badge](https://img.shields.io/badge/PowerShell-2C2F3D?style=for-the-badge&logo=powershell&logoColor=white) 65% – Automação e execução de scripts no Windows.
 - **Git/GitHub**: ![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 85% – Controle de versão e colaboração de código.
 
+## Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yanlt32&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
+
 ## Projetos
 
 Confira alguns dos meus projetos no GitHub:
