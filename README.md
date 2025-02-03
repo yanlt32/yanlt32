@@ -30,6 +30,10 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yanlt32&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
 
+## Linguagens Mais Usadas
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yanlt32&langs_count=10&layout=compact&theme=radical)
+
 ## Projetos
 
 Confira alguns dos meus projetos no GitHub:
