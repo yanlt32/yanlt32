@@ -46,5 +46,5 @@ Confira alguns dos meus projetos no GitHub:
 
 ## Contato
 
-- **E-mail**: yanladeia@gmail.com
-- **LinkedIn**: [yan-ladeia](https://www.linkedin.com/in/yan-ladeia/)
+- **E-mail**: ladeiatortelli8@outlook.com
+- **LinkedIn**: https://www.linkedin.com/in/yan-tortelli-65501633b/
