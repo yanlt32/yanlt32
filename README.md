@@ -1,50 +1,115 @@
-# Yan Ladeia Tortelli - Tecnologias e Habilidades
+# 🚀 Yan Ladeia Tortelli
 
-## Tecnologias que Eu Sei
+🎓 Tecnólogo em Gestão da Tecnologia da Informação (UNICID)  
+💻 Formado em Análise e Desenvolvimento de Sistemas (SENAI)  
+☁️ Certificações: AWS | Google Cloud | Cisco | Microsoft Power Platform  
 
-### **Desenvolvimento Web**
-- **HTML/CSS**: ![HTML5 Badge](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white) 90% – Criação de sites e portfólios responsivos.
-- **JavaScript**: ![JavaScript Badge](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=yellow) 85% – Desenvolvimento de funcionalidades interativas para web.
-- **Node.js**: ![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 80% – Desenvolvimento de servidores e aplicações backend.
-- **Django**: ![Django Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) 75% – Framework Python para criação de websites dinâmicos.
-- **React (Expo)**: ![React Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 70% – Desenvolvimento de aplicativos móveis com Expo.
+---
 
-### **Plataformas de Nuvem**
-- **AWS (Amazon Web Services)**: ![AWS Badge](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) 80% – Gerenciamento de instâncias EC2, armazenamento S3, e outras ferramentas AWS.
-- **Google Cloud**: ![Google Cloud Badge](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) 75% – Conhecimento em serviços de nuvem, como máquinas virtuais e banco de dados.
+## 👨‍💻 Sobre Mim
 
-### **Banco de Dados**
-- **SQLite**: ![SQLite Badge](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) 85% – Criação e gerenciamento de bancos de dados locais.
-- **MySQL**: ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 70% – Criação e administração de bancos de dados relacionais.
+Sou desenvolvedor com foco em soluções práticas e eficientes, atuando tanto no desenvolvimento web quanto em automações e sistemas corporativos.
 
-### **Desenvolvimento de Chatbots**
-- **WhatsApp API**: ![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) 80% – Criação de chatbots para integração com WhatsApp.
-- **Baileys (Biblioteca WhatsApp)**: ![Baileys Badge](https://img.shields.io/badge/Baileys-00D35C?style=for-the-badge&logo=whatsapp&logoColor=white) 75% – Manipulação de mensagens e interações via WhatsApp API.
+Tenho experiência com criação de sites, chatbots, integrações com APIs e também com plataformas empresariais como o **ServiceNow**, trabalhando com catálogos de serviço, automações e suporte a usuários.
 
-### **Outras Tecnologias**
-- **PM2**: ![PM2 Badge](https://img.shields.io/badge/PM2-2B9ED2?style=for-the-badge&logo=pm2&logoColor=white) 70% – Gerenciamento de processos de Node.js.
-- **PowerShell**: ![PowerShell Badge](https://img.shields.io/badge/PowerShell-2C2F3D?style=for-the-badge&logo=powershell&logoColor=white) 65% – Automação e execução de scripts no Windows.
-- **Git/GitHub**: ![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 85% – Controle de versão e colaboração de código.
+---
 
-## Estatísticas do GitHub
+## 🧠 Tecnologias e Habilidades
+
+### 🌐 Desenvolvimento Web
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=yellow)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+- Desenvolvimento de aplicações web e mobile  
+- Criação de interfaces responsivas  
+- Integração com APIs  
+
+---
+
+### ☁️ Cloud Computing
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+- Gerenciamento de instâncias EC2  
+- Deploy de aplicações  
+- Armazenamento em nuvem (S3)  
+
+---
+
+### 🗄️ Banco de Dados
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+- Modelagem de dados  
+- Consultas SQL  
+- Estruturação de bancos  
+
+---
+
+### 🤖 Chatbots e Automação
+![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+
+- Desenvolvimento de chatbots com WhatsApp API  
+- Uso da biblioteca Baileys  
+- Automação de atendimento e processos  
+
+---
+
+### 🏢 ServiceNow (Experiência Corporativa)
+
+- Criação e configuração de **Catálogo de Serviços (Service Catalog)**  
+- Desenvolvimento de **Client Scripts (JavaScript)**  
+- Criação de **variáveis dinâmicas e regras de formulário**  
+- Configuração de **fluxos de solicitação (workflow)**  
+- Direcionamento de chamados por grupo de atribuição  
+- Ajustes e suporte em **requisições, incidentes e acessos**  
+- Integração de sistemas (ex: Oracle / ERP / ADS)  
+- Correção e manutenção de formulários  
+
+---
+
+### ⚙️ Outras Ferramentas
+![PM2](https://img.shields.io/badge/PM2-2B9ED2?style=for-the-badge&logo=pm2&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-2C2F3D?style=for-the-badge&logo=powershell&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+- Gerenciamento de processos Node.js  
+- Automação com scripts  
+- Versionamento com Git/GitHub  
+
+---
+
+## 📊 Estatísticas GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yanlt32&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
 
-## Linguagens Mais Usadas
+---
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yanlt32&langs_count=10&layout=compact&theme=radical)
+## 📌 Linguagens Mais Usadas
 
-## Projetos
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanlt32&langs_count=10&layout=compact&theme=radical)
 
-Confira alguns dos meus projetos no GitHub:
+---
 
-- [Chatbot para Barbearia e Pizzaria](https://github.com/yanlt32/botwagner)
-- [Site "Devcasais"](https://github.com/yanlt32/TecLove-teste)
-- [Site sobre Palha Italiana](https://github.com/yanlt32/portfolio)
-- [Aplicativo "Meu App"](https://github.com/yanlt32/meu-app)
-- [Portfólio Pessoal](https://github.com/yanlt32/portfolio)
+## 🚀 Projetos
 
-## Contato
+🔹 [Chatbot Barbearia/Pizzaria](https://github.com/yanlt32/botwagner)  
+🔹 [Devcasais](https://github.com/yanlt32/TecLove-teste)  
+🔹 [Site Palha Italiana](https://github.com/yanlt32/portfolio)  
+🔹 [Meu App](https://github.com/yanlt32/meu-app)  
+🔹 [Portfólio](https://github.com/yanlt32/portfolio)  
 
-- **E-mail**: ladeiatortelli8@outlook.com
-- **LinkedIn**: https://www.linkedin.com/in/yan-tortelli-65501633b/
+---
+
+## 📫 Contato
+
+📧 Email: ladeiatortelli8@outlook.com  
+🔗 LinkedIn: https://www.linkedin.com/in/yan-tortelli-65501633b/  
+
+---
+
+⭐ Sempre buscando evoluir na área de tecnologia e criar soluções que gerem impacto real.
